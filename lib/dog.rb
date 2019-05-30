@@ -4,5 +4,3 @@ class Person
 end
 
 person.new(Kevin)
-
-end
