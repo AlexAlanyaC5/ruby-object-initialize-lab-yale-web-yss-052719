@@ -4,6 +4,6 @@ class Person
 end
 
   def robbie
-  @robbie
+    @robbie
   end
 end
