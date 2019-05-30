@@ -3,4 +3,4 @@ class Person
   end
 end
 
-Person.new("Kevin")
+person.new("Kevin")
